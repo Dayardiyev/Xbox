@@ -597,7 +597,7 @@ section:not(.fade-in){
         padding-right: 0;
     }
 
-    .header-menu.active, .header-nav ul a{
+    .header-menu.active .header-nav ul a{
         border-bottom: 2px solid var(--grey-color);
         padding-bottom: 15px;
         cursor: pointer;
