@@ -453,7 +453,7 @@ header{
 }
 
 .faq-text.active .arrow{
-    transform: rotate(-180deg);
+    transform: rotate(-0deg);
     opacity: 1;
 }
 
